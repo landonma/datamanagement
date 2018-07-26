@@ -6,7 +6,7 @@
 <<<<<<< HEAD
 *[Instructions in italics and between square brackets. Remove them from the final document.
 =======
-*[Instructions are in italics and between square brackets. Remove them from the final document. 
+*[Instructions are in italics and between square brackets. Remove them from the final document.
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 The material in this document may be integrated into a data management plan or used as a stand-alone agreement. There may be some overlap between the Internal Data Sharing Plan and the Data Management Plan. Remove or add text in this document as necessary so that this document is  ]*
 
@@ -66,7 +66,7 @@ Rationale: Most of the data management responsibilities outlined in Section 4 re
 All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
- 
+
 
 <<<<<<< HEAD
 Principal Investigator (PI): leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project.
@@ -86,17 +86,17 @@ Responsibilities *[adapt the definition of each of these responsibilities to the
 When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.  
 
 
-Members of the Project involved in data management [change to a more specific role] will be acknowledged in the acknowledgment section in papers and publications. 󠄀 
+Members of the Project involved in data management [change to a more specific role] will be acknowledged in the acknowledgment section in papers and publications. 󠄀
 
 
-Members of the Project involved in data management [change to a more specific role] will be listed as co-authors in publications. [this option is not recommended, as the authors of publications should participate in the writing or critical review of the piece of scholarship. For a discussion about definitions of authorship see https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014 ] 
+Members of the Project involved in data management [change to a more specific role] will be listed as co-authors in publications. [this option is not recommended, as the authors of publications should participate in the writing or critical review of the piece of scholarship. For a discussion about definitions of authorship see https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014 ]
 
 <<<<<<< HEAD
  Responsibility of: *[complete with one of the roles defined above]*
 =======
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
-,Members of the Project involved in data management won’t be acknowledged in any way. 
+,Members of the Project involved in data management won’t be acknowledged in any way.
 
 
 ### Section 3
@@ -108,7 +108,7 @@ Responsibility of: *[complete with one of the roles defined above]*
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
 
-Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project. 
+Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.
 
 <<<<<<< HEAD
 Responsibility of: *[complete with one of the roles defined above]*
@@ -162,13 +162,13 @@ Metadata generation: responsible for generating metadata (data description), d
 ### Roles and Responsibilities
 
 
-Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them. 
+Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.
 
 
 Role definitions: [adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here.]
 
 
-Principal Investigator (PI): leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project. 
+Principal Investigator (PI): leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project.
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
 Faculty Investigator: they actively perform research on all or a part of the research Project. They may provide active mentorship to students.
@@ -279,7 +279,7 @@ Responsibility of: [complete with one of the roles defined above]
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
 
-Software creation and maintenance: responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features). 
+Software creation and maintenance: responsible for the creation, design, and installation of a software products (e.g. code writing) and maintenance of the system (software update, error correction, enhancement of existing features).
 
 
 Responsibility of: [complete with one of the roles defined above]
@@ -305,7 +305,7 @@ Responsibility of: [complete with one of the roles defined above]
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
 
-Data organization: responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats. 
+Data organization: responsible for maintaining the data in an organized data structure so that it is easy to find (i.e. folder structure, file naming conventions). Responsible for saving the data in the appropriate formats.
 
 
 Responsibility of: [complete with one of the roles defined above]
@@ -314,7 +314,7 @@ Responsibility of: [complete with one of the roles defined above]
 <<<<<<< HEAD
 
 =======
-Metadata generation: responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan. 
+Metadata generation: responsible for generating metadata (data description), documentation, using the metadata standards or templates specified in the Data Management Plan.
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
 
@@ -325,7 +325,7 @@ Responsibility of: [complete with one of the roles defined above]
 =======
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
-Quality control: responsible for performing quality assurance  and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points. 
+Quality control: responsible for performing quality assurance  and quality control. It involves testing, reviewing, cleansing of data, calibration, correcting errors, data remediation, and documentation of quality control on the data points.
 
 
 <<<<<<< HEAD
@@ -335,14 +335,14 @@ Responsibility of: [complete with one of the roles defined above]
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
 
-Data analysis: responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions. 
+Data analysis: responsible of various activities related to data analysis such as examining, analyzing, sorting, aggregating, transforming, modeling, visualizing, validating, presenting, to answer research questions.
 
 <<<<<<< HEAD
 
 =======
 >>>>>>> 7035774351446c449c7d008f1ad7238824c6c465
 
-Responsibility of: [complete with one of the roles defined above] 
+Responsibility of: [complete with one of the roles defined above]
 
 
 <<<<<<< HEAD
