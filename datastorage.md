@@ -3,7 +3,7 @@
 ## Internal Data Sharing Plan
 
 
-*[Instructions in italics and between square brackets. Remove them from the final document. 
+*[Instructions are in italics and between square brackets. Remove them from the final document. 
 The material in this document may be integrated into a data management plan or used as a stand-alone agreement. There may be some overlap between the Internal Data Sharing Plan and the Data Management Plan. Remove or add text in this document as necessary so that this document is  ]*
 
 Rationale: This data sharing plan contains the expectations that will govern internal data sharing during the duration of the project. By internal data sharing we understand the sharing of datasets generated or compiled during a project among the members of the project while the project is ongoing. 
@@ -26,9 +26,9 @@ The data management plan for the project can be found [complete with location]
 
 
 
-Section 2
+### Section 2
 
-Roles and Responsibilities
+### Roles and Responsibilities
 
 
 Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them. 
