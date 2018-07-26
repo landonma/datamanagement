@@ -18,11 +18,11 @@ Rationale: bad data management practices increase the chances of conflict among 
 
 1) *[Project name here]*
 
-2)Data Management Plan (DMP)
+2) Data Management Plan (DMP)
 The data management plan for the project can be found [complete with location]
 
 
-Data Description *[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
+3) Data Description *[if there are datasets that will be managed **differently** with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
 
 
 
