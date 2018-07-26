@@ -8,9 +8,6 @@ The material in this document may be integrated into a data management plan or u
 
 Rationale: This data sharing plan contains the expectations that will govern internal data sharing during the duration of the project. By internal data sharing we understand the sharing of datasets generated or compiled during a project among the members of the project while the project is ongoing. 
 
-<p align="center">
-  <b> ### Section 1</b><br>
-</p>
 
 ### Section 1
 ### Data Management 
@@ -19,22 +16,13 @@ Rationale: This data sharing plan contains the expectations that will govern int
 Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project. 
 
 
-1) Project overview
+1) *[Project name here]*
+
+2)Data Management Plan (DMP)
+The data management plan for the project can be found [complete with location]
 
 
-This agreement is between all the members of the project 
-
-[insert project title]
-
-Throughout this document we will refer to it as the Project.  
-
-
-Data Management Plan (DMP)
-
-The data management plan for the project can be found [complete]
-
-
-Data Description [if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]
+Data Description *[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
 
 
 
