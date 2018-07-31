@@ -112,7 +112,7 @@ Rationale: Electronic data must be managed well to keep all files up to date, ac
 - **Publication:** All published experimental data should be readily available to requesting labs.
 
 #### BACKUP:
-
+Back up info
 
 #### FILE ORGANIZATION:
 Lab material must be connectable to their context in the real world (lab notebook, instrument settings, etc.). Proper lab data management will ensure this is possible.
