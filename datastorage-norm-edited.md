@@ -15,10 +15,10 @@ Rationale: This data sharing plan contains the expectations that will govern int
 Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.
 
 
-1) *[Project Name]*
+##### 1) *[Project Name]*
 
 
-2) Data Management Plan (DMP)
+##### 2) Data Management Plan (DMP)
 The data management plan for the project can be found *[complete]*
 
 3) Data Description *[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
