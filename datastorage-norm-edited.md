@@ -85,48 +85,42 @@ Rationale: setting expectations about how and when datasets will be shared inter
 *[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*
 
 
-#### LAB NOTEBOOKS
-Scientific results cannot be built on memories; they are built on documented, reproducible protocols and measurements.  The primary goal of your lab notebook is to document what you did, in detail sufficient to understand and reproduce your results.  It should be a narrative that describes what you did, why you did it, your actual results, and how you interpret them.
+### LAB NOTEBOOKS
+Rationale: Scientific results are built on documented, measurements and reproducible protocols.  The primary goal of your lab notebook is to document what you did, in detail sufficient to understand and reproduce your results.  It should be a narrative that describes what you did, why you did it, your actual results, and how you interpret them.
 
 - **If you didn’t document it, it didn’t happen.**
 - **In two years, you’ll wish you had written more down.**  
 
 Guidelines:
 
-- Legible, in pen.  You can either use a normal lab notebook or build a loose-leaf notebook in a binder.
-- Enter information directly into the notebook [no paper towels :)].
-- Properly introduce and summarize each experiment.
+- Legible, in pen and kept in a bound notebook
+- Enter information directly into the notebook
+- Properly introduce and summarize each experiment
 - Tape in any external results (graph printouts, etc.)
-- Note where any electronic files associated with experiment are stored.
-- Include complete details of all first-time procedures, and cross-reference to page with full details for repeated procedures.
+- Note where any electronic files associated with experiment are stored
+- Include complete details of all first-time procedures, and cross-reference to page with full details for repeated procedures
 - Include calculations
 - Keep up with the table of contents.
-- Date and number each page.
+- Date and number each page
 
-#### ELECTRONIC DATA
-THERE ARE FIVE MAIN GOALS TO KEEP IN MIND WHEN DEALING WITH ELECTRONIC DATA IN THE LAB.
-- **Backup:** Files should be backed up to cover everything from accidental deletion to destruction of the university.
-- **Integrity:** Data files are the electronic equivalent of a lab notebook, meaning we need a tamper-resistant record of modifications.
+### ELECTRONIC DATA
+Rationale: Electronic data must be managed well to keep all files up to date, accessible and backed up.
+- **Backup:** Files should be backed up as described below to cover everything from accidental deletion to destruction of the university.
+- **Integrity:** Data files are the electronic equivalent of a lab notebook, meaning they should be tamper-resistant record of modifications
 - **Collaboration:** Lab data should be readable and immediately available to future and current lab members.
-- **Archival readability:** Data needs to be readable by labs that do not possess any proprietary software used by our lab.
-Publication: All published experimental data should be readily available to requesting labs.
+- **Archival readability:** Data needs to be readable by labs that do not possess any proprietary software used by the lab.
+- **Publication:** All published experimental data should be readily available to requesting labs.
 
 #### BACKUP:
-We tackle backup, integrity, and collaboration with a peer-to-peer synchronization client — syncthing — which securely and automatically copies data from lab member and instrument computers to our lab server. This server saves versions of each file, allowing reconstruction of how the files have changed over time. All lab members have access to the data on the server.
 
-All lab members should have a syncthing share.
-All lab work (including writing) should be saved in this share.
-The server is a community resource. If we’re not maxed for space, feel free to backup non-work stuff provided: 1) you don’t mind lab members having access to it and 2) it’s legal.
-FILE ORGANIZATION:
-A challenging aspect of lab data management is connecting the random files on a computer to their context in the real world (lab notebook, instrument settings, etc.). The following describes the best practices for four basic types of data we generate in the lab.
 
-Basic experimental data
-The directory containing experimental output should have the following format:
+#### FILE ORGANIZATION:
+Lab material must be connectable to their context in the real world (lab notebook, instrument settings, etc.). Proper lab data management will ensure this is possible.
+
+- The directory containing experimental output should have the following format:
 YYYY-MM-DD_notebook-page_descriptive-name
-The raw experimental data should be exported into an appropriate non-proprietary, long-term file format.
-Each directory should have a clearly labeled summary file (image, text file/document, or graph). The summary file should be printed out and placed in the lab notebook.
-
-
+- The raw experimental data should be exported into an appropriate non-proprietary, long-term file format.
+- Each directory should have a clearly labeled summary file (image, text file/document, or graph). The summary file should be printed out and placed in the lab notebook.
 
 
 ### Section 4
