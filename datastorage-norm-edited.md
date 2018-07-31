@@ -39,23 +39,15 @@ All members of the Project involved in roles related to data management will be 
 
 
 
-Members of the Project that were involved in data management **_[change to a more specific role]_** will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. *[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]*. The offer for co-authorship may be accepted or declined.
+- Members of the Project that were involved in data management **_[change to a more specific role]_** will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. *[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]*. The offer for co-authorship may be accepted or declined.
 
 
-Datasets will be published separately from the research in a repository or as an article in a data journal *[change if there are more discipline specific options]*. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.  
+- Datasets will be published separately from the research in a repository or as an article in a data journal *[change if there are more discipline specific options]*. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.  
 
 
 
-When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.  
+- When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.  
 
-
-Members of the Project involved in data management *[change to a more specific role]* will be acknowledged in the acknowledgment section in papers and publications. 󠄀
-
-
-Members of the Project involved in data management *[change to a more specific role]* will be listed as co-authors in publications. *[this option is not recommended, as the authors of publications should participate in the writing or critical review of the piece of scholarship. For a discussion about definitions of authorship see https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014 ]*
-
-
-,Members of the Project involved in data management won’t be acknowledged in any way.
 
 
 ### Section 3
