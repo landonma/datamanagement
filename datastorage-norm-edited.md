@@ -85,30 +85,32 @@ Rationale: setting expectations about how and when datasets will be shared inter
 *[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]*
 
 
-LAB NOTEBOOKS
+#### LAB NOTEBOOKS
 Scientific results cannot be built on memories; they are built on documented, reproducible protocols and measurements.  The primary goal of your lab notebook is to document what you did, in detail sufficient to understand and reproduce your results.  It should be a narrative that describes what you did, why you did it, your actual results, and how you interpret them.
 
-If you didn’t document it, it didn’t happen.
-In two years, you’ll wish you had written more down.  
+- **If you didn’t document it, it didn’t happen.**
+- **In two years, you’ll wish you had written more down.**  
 Guidelines:
 
-Legible, in pen.  You can either use a normal lab notebook or build a loose-leaf notebook in a binder.
-Enter information directly into the notebook [no paper towels :)].
-Properly introduce and summarize each experiment.
-Tape in any external results (graph printouts, etc.)
-Note where any electronic files associated with experiment are stored.
-Include complete details of all first-time procedures, and cross-reference to page with full details for repeated procedures.
-Include calculations
-Keep up with the table of contents.
-Date and number each page.
-ELECTRONIC DATA
-THERE ARE FIVE MAIN GOALS TO KEEP IN MIND WHEN DEALING WITH ELECTRONIC DATA IN THE HARMS LAB.
-Backup: Files should be backed up to cover everything from accidental deletion to destruction of the university.
-Integrity: Data files are the electronic equivalent of a lab notebook, meaning we need a tamper-resistant record of modifications.
-Collaboration: Lab data should be readable and immediately available to future and current lab members.
-Archival readability: Data needs to be readable by labs that do not possess any proprietary software used by our lab.
+- Legible, in pen.  You can either use a normal lab notebook or build a loose-leaf notebook in a binder.
+- Enter information directly into the notebook [no paper towels :)].
+- Properly introduce and summarize each experiment.
+- Tape in any external results (graph printouts, etc.)
+- Note where any electronic files associated with experiment are stored.
+- Include complete details of all first-time procedures, and cross-reference to page with full details for repeated procedures.
+- Include calculations
+- Keep up with the table of contents.
+- Date and number each page.
+
+#### ELECTRONIC DATA
+THERE ARE FIVE MAIN GOALS TO KEEP IN MIND WHEN DEALING WITH ELECTRONIC DATA IN THE LAB.
+- **Backup:** Files should be backed up to cover everything from accidental deletion to destruction of the university.
+- **Integrity:** Data files are the electronic equivalent of a lab notebook, meaning we need a tamper-resistant record of modifications.
+- **Collaboration:** Lab data should be readable and immediately available to future and current lab members.
+- **Archival readability:** Data needs to be readable by labs that do not possess any proprietary software used by our lab.
 Publication: All published experimental data should be readily available to requesting labs.
-BACKUP:
+
+#### BACKUP:
 We tackle backup, integrity, and collaboration with a peer-to-peer synchronization client — syncthing — which securely and automatically copies data from lab member and instrument computers to our lab server. This server saves versions of each file, allowing reconstruction of how the files have changed over time. All lab members have access to the data on the server.
 
 All lab members should have a syncthing share.
