@@ -21,7 +21,7 @@ Rationale: bad data management practices increase the chances of conflict among 
 ##### 2) Data Management Plan (DMP)
 The data management plan for the project can be found *[complete]*
 
-##### 3) Data Description 
+##### 3) Data Description
 *[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]*
 
 
@@ -136,7 +136,7 @@ Rationale: Data management takes time and effort. In order to not oversee any im
 Role definitions: *[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here.]*
 
 
-Principal Investigator (PI): leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project.
+_Principal Investigator (PI):_ leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project.
 
 Faculty Investigator: they actively perform research on all or a part of the research Project. They may provide active mentorship to students.
 
