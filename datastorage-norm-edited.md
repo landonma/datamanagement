@@ -90,6 +90,7 @@ Scientific results cannot be built on memories; they are built on documented, re
 
 - **If you didn’t document it, it didn’t happen.**
 - **In two years, you’ll wish you had written more down.**  
+
 Guidelines:
 
 - Legible, in pen.  You can either use a normal lab notebook or build a loose-leaf notebook in a binder.
