@@ -1,6 +1,6 @@
 # Oregon-State-Data-Management-Plan
 
-## Internal Data Sharing Plan
+## Data Management Implementation Plan
 
 
 **_[Instructions in italics and bold. Remove them from the final document.
@@ -8,7 +8,70 @@ The material in this document may be integrated into a data management plan or u
 
 Rationale: This data sharing plan contains the expectations that will govern internal data sharing during the duration of the project. By internal data sharing we understand the sharing of datasets generated or compiled during a project among the members of the project while the project is ongoing.
 
-### Section 1
+### Data Management Plan and Documentation
+
+
+
+### Data Management Units
+
+
+
+### Data Collection
+
+
+
+### Data Documentation
+
+
+
+### Quality Control
+
+
+
+### File Organization
+
+
+
+### Formats
+
+
+
+### Storage  
+
+
+
+### Backup
+
+
+
+### Workflow Internal Data Sharing
+
+
+
+### {{{}}} Data Use
+
+
+
+### Protection for Sensitive and Confidential Data
+
+
+
+### Management of Physical Samples
+
+
+
+### Data Publication
+
+
+
+### Data Archival
+
+
+
+### Roles and Responsibilities
+
+
+
 ### Data Management
 
 
