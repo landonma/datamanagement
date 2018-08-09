@@ -57,19 +57,19 @@ Here are some ideas of the kind of information that should be recorded for each 
     * Acronyms and abbreviations used in the dataset.
     * References useful to understand or interpret the dataset.
 *	For tabular data:
-o	Units
-o	Description of all column headers
-o	Value used for null value.
+    * Units
+    * Description of all column headers
+    * Value used for null value.
 *	For images:
-o	Consider editing the image metadata with a program like [Exiftool by Phil Harvey]( https://www.sno.phy.queensu.ca/~phil/exiftool/).
-o	Keep information about image provenance: for images that have been modified in some way, keep information about where is the original image, which changes have been performed, and why.   
+    * Consider editing the image metadata with a program like [Exiftool by Phil Harvey]( https://www.sno.phy.queensu.ca/~phil/exiftool/).
+    * Keep information about image provenance: for images that have been modified in some way, keep information about where is the original image, which changes have been performed, and why.   
 *	For sensitive and/or confidential data:
-o	IRB documentation
-o	How will the data be protected?
+    * IRB documentation
+    * How will the data be protected?
 *	For code:
-o	Consider the good practices in [Wilson et al. (2014) Best practices for scientific computing](https://doi.org/10.1371/journal.pbio.1001745), which includes the following.
-o	Embed the documentation for a piece of software in that software.
-o	Document interfaces and reasons, design and purpose, not implementations or mechanics.
+    * Consider the good practices in [Wilson et al. (2014) Best practices for scientific computing](https://doi.org/10.1371/journal.pbio.1001745), which includes the following.
+    * Embed the documentation for a piece of software in that software.
+    * Document interfaces and reasons, design and purpose, not implementations or mechanics.
 
 
 ### Quality Control
