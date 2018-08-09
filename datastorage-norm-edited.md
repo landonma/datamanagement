@@ -1,12 +1,19 @@
 # Oregon-State-Data-Management-Plan
-
+Table of Contents
+[Data Collection](#data-collection)
 ## Data Management Implementation Plan
 
-Rationale: This data sharing plan contains the expectations that will govern internal data sharing during the duration of the project. By internal data sharing we understand the sharing of datasets generated or compiled during a project among the members of the project while the project is ongoing.
-
-[Data Collection](#data-collection)
+Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.
 
 
+##### 1) **_[Project Name]_**
+
+
+##### 2) Data Management Plan (DMP)
+The data management plan for the project can be found **_[complete]_**
+
+##### 3) Data Description
+**_[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]_**
 
 ### Data Management Plan and Documentation
 
@@ -23,7 +30,31 @@ These groups should be referred to throughout the document when different manage
 
 ### Data Collection
 
+##### LAB NOTEBOOKS
+Rationale: Scientific results are built on documented, measurements and reproducible protocols.  The primary goal of your lab notebook is to document what you did, in detail sufficient to understand and reproduce your results.  It should be a narrative that describes what you did, why you did it, your actual results, and how you interpret them.
 
+- **If you didn’t document it, it didn’t happen.**
+- **In two years, you’ll wish you had written more down.**  
+
+Guidelines:
+
+- Legible, in pen and kept in a bound notebook
+- Enter information directly into the notebook
+- Properly introduce and summarize each experiment
+- Tape in any external results (graph printouts, etc.)
+- Note where any electronic files associated with experiment are stored
+- Include complete details of all first-time procedures, and cross-reference to page with full details for repeated procedures
+- Include calculations
+- Keep up with the table of contents.
+- Date and number each page
+
+##### ELECTRONIC DATA
+Rationale: Electronic data must be managed well to keep all files up to date, accessible and backed up.
+- **Backup:** Files should be backed up as described below to cover everything from accidental deletion to destruction of the university.
+- **Integrity:** Data files are the electronic equivalent of a lab notebook, meaning they should be tamper-resistant record of modifications
+- **Collaboration:** Lab data should be readable and immediately available to future and current lab members.
+- **Archival readability:** Data needs to be readable by labs that do not possess any proprietary software used by the lab.
+- **Publication:** All published experimental data should be readily available to requesting labs.
 
 ### Data Documentation
 
@@ -107,78 +138,6 @@ See [eCommons: Cornell's Digital Repository. Recommended file formats](http://gu
 
 
 ### Workflow Internal Data Sharing
-
-
-
-### {{{}}} Data Use
-
-
-
-### Protection for Sensitive and Confidential Data
-
-
-
-### Management of Physical Samples
-
-
-
-### Data Publication
-
-
-
-### Data Archival
-
-
-
-### Roles and Responsibilities
-
-
-
-### Data Management
-
-
-Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.
-
-
-##### 1) **_[Project Name]_**
-
-
-##### 2) Data Management Plan (DMP)
-The data management plan for the project can be found **_[complete]_**
-
-##### 3) Data Description
-**_[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]_**
-
-
-### Section 2
-### Acknowledgment of Data Use
-
-
-Rationale: Most of the data management responsibilities outlined in the final section require a lot of time and effort. Often, datasets are shared within members of the same project and the use of these datasets improves or makes possible scholarly outcomes  such as publications of articles, book chapters, presentations in conferences, proceedings, etc. It is necessary to have a common understanding on how to acknowledge the role of data managers, data creators, data analysts in the research process. These roles may not be appropriate as manuscript authors, but there are many other options. Acknowledging these roles is not a legal matter (no law requires it), but it is an ethical one. Responsible conduct of research involves acknowledging other people’s roles in managing data. Acknowledging the roles may also have an impact of the careers of researchers involved.    
-
-
-**_[Decide what are the procedures that you will follow to acknowledge data management roles, and if there are any preferred methods. This template lists the options in order: options that follow best practices are noted at the beginning, while practices that we discourage are noted at the end. We use here “data management” as a general term, but consider changing it for more specific roles. For example, you may want to consider offering co-authorship to the researchers involved in data collection and data quality control as authors in data publications, and adding the researchers involved in instrumentation maintenance in the acknowledgements]_**
-
-
-All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
-
-
-
-- Members of the Project that were involved in data management **_[change to a more specific role]_** will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. **_[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]_**. The offer for co-authorship may be accepted or declined.
-
-
-- Datasets will be published separately from the research in a repository or as an article in a data journal **_[change if there are more discipline specific options]_**. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.  
-
-
-
-- When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.  
-
-
-
-### Section 3
-### Workflows
-
-
 Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.
 
 
@@ -202,31 +161,73 @@ Rationale: setting expectations about how and when datasets will be shared inter
 **_[Include other workflow details that will be useful if necessary. For example, there may be details in the data management plan that can be outlined or detailed here. For example, when will the datasets be made publicly available? Who will decide when to make the dataset available if there are several researchers working with them?]_**
 
 
-### LAB NOTEBOOKS
-Rationale: Scientific results are built on documented, measurements and reproducible protocols.  The primary goal of your lab notebook is to document what you did, in detail sufficient to understand and reproduce your results.  It should be a narrative that describes what you did, why you did it, your actual results, and how you interpret them.
 
-- **If you didn’t document it, it didn’t happen.**
-- **In two years, you’ll wish you had written more down.**  
+### Data Use
 
-Guidelines:
 
-- Legible, in pen and kept in a bound notebook
-- Enter information directly into the notebook
-- Properly introduce and summarize each experiment
-- Tape in any external results (graph printouts, etc.)
-- Note where any electronic files associated with experiment are stored
-- Include complete details of all first-time procedures, and cross-reference to page with full details for repeated procedures
-- Include calculations
-- Keep up with the table of contents.
-- Date and number each page
 
-### ELECTRONIC DATA
-Rationale: Electronic data must be managed well to keep all files up to date, accessible and backed up.
-- **Backup:** Files should be backed up as described below to cover everything from accidental deletion to destruction of the university.
-- **Integrity:** Data files are the electronic equivalent of a lab notebook, meaning they should be tamper-resistant record of modifications
-- **Collaboration:** Lab data should be readable and immediately available to future and current lab members.
-- **Archival readability:** Data needs to be readable by labs that do not possess any proprietary software used by the lab.
-- **Publication:** All published experimental data should be readily available to requesting labs.
+### Protection for Sensitive and Confidential Data
+
+
+
+### Management of Physical Samples
+
+
+
+### Data Publication
+
+##### Acknowledgment of Data Use
+
+
+Rationale: Most of the data management responsibilities outlined in the final section require a lot of time and effort. Often, datasets are shared within members of the same project and the use of these datasets improves or makes possible scholarly outcomes  such as publications of articles, book chapters, presentations in conferences, proceedings, etc. It is necessary to have a common understanding on how to acknowledge the role of data managers, data creators, data analysts in the research process. These roles may not be appropriate as manuscript authors, but there are many other options. Acknowledging these roles is not a legal matter (no law requires it), but it is an ethical one. Responsible conduct of research involves acknowledging other people’s roles in managing data. Acknowledging the roles may also have an impact of the careers of researchers involved.    
+
+
+**_[Decide what are the procedures that you will follow to acknowledge data management roles, and if there are any preferred methods. This template lists the options in order: options that follow best practices are noted at the beginning, while practices that we discourage are noted at the end. We use here “data management” as a general term, but consider changing it for more specific roles. For example, you may want to consider offering co-authorship to the researchers involved in data collection and data quality control as authors in data publications, and adding the researchers involved in instrumentation maintenance in the acknowledgements]_**
+
+
+All members of the Project involved in roles related to data management will be acknowledged in some way. Specifically:
+
+
+
+- Members of the Project that were involved in data management **_[change to a more specific role]_** will be offered co-authorship to papers that make use of their data. Co-authorship will require participation in the interpretation of the data, writing, or critical review of the manuscript, approval of the final manuscript. **_[if the group defines authorship using a specific set of criteria, include a link to these criteria here. A few examples of current definitions of authorship can be found in https://publicationethics.org/resources/discussion-documents/what-constitutes-authorship-june-2014]_**. The offer for co-authorship may be accepted or declined.
+
+
+- Datasets will be published separately from the research in a repository or as an article in a data journal **_[change if there are more discipline specific options]_**. Members of the Project with a significant data management contribution will be listed as co-authors in the data publication. Every member of the Project that makes use of the published datasets will cite the dataset and list it in the reference list in their publications.  
+
+
+
+- When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.
+
+### Data Archival
+
+
+
+### Roles and Responsibilities
+
+
+
+### Data Management
+
+
+
+
+
+
+
+
+
+### Section 2
+
+
+
+
+### Section 3
+### Workflows
+
+
+
+
+
 
 #### BACKUP:
 Back up info
