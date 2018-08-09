@@ -8,7 +8,7 @@ The material in this document may be integrated into a data management plan or u
 
 Rationale: This data sharing plan contains the expectations that will govern internal data sharing during the duration of the project. By internal data sharing we understand the sharing of datasets generated or compiled during a project among the members of the project while the project is ongoing.
 
-[Data Collection](#Data-Collection)
+[Data Collection](#data-collection)
 
 
 [Data Collection link](###heading)
@@ -21,7 +21,6 @@ Rationale: This data sharing plan contains the expectations that will govern int
 
 
 ### Data Management Units
-
 
 
 ### Data Collection
