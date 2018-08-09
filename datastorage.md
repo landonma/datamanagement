@@ -14,6 +14,9 @@ Rationale: This data sharing plan contains the expectations that will govern int
 
 ### Data Management Plan and Documentation
 
+#### Rationale and resources
+#### Boiler plate text
+#### Examples
 
 
 ### Data Management Units
