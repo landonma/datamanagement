@@ -1,6 +1,22 @@
 # Oregon-State-Data-Management-Plan
 Table of Contents
+[Data Management Implementation Plan](#data-management-plan-and-other-documentation)
+[Data Management Units](#data-management-units)
 [Data Collection](#data-collection)
+[Data Documentation](#data-documentation)
+[Quality Control](#quality-control)
+[File Organization](#file-organization)
+[Formats](#formats)
+[Storage](#storage)
+[Backup](#backup)
+[Workflow Internal Data Sharing](#workflow-internal-data-sharing)
+[Data Use](#data-use)
+[Protection for Sensitive and Confidential Data](#protection-for-sensitive-and-confidential-data)
+[Management of Physical Samples](#management-of-physical-samples)
+[Data Publication](#data-publication)
+[Data Archival](#data-archival)
+[Roles and Responsibilities](#roles-and-responsibilities)
+
 ## Data Management Implementation Plan
 
 Rationale: bad data management practices increase the chances of conflict among the members of a research project. All projects should have a data management plan, regardless of the size of the project, and regardless of the funding source of the project.
@@ -48,10 +64,11 @@ Guidelines:
 - Keep up with the table of contents.
 - Date and number each page
 
+%%
 ##### ELECTRONIC DATA
-Rationale: Electronic data must be managed well to keep all files up to date, accessible and backed up.
+Rationale: Electronic data must be managed well to keep all files up to date, accessible and backed up. They are equivalent to lab notebooks but since they are digital there are addition things to consider.
 - **Backup:** Files should be backed up as described below to cover everything from accidental deletion to destruction of the university.
-- **Integrity:** Data files are the electronic equivalent of a lab notebook, meaning they should be tamper-resistant record of modifications
+- **Integrity:** Data files are the electronic equivalent of a lab notebook, meaning they should be a tamper-resistant record of modifications
 - **Collaboration:** Lab data should be readable and immediately available to future and current lab members.
 - **Archival readability:** Data needs to be readable by labs that do not possess any proprietary software used by the lab.
 - **Publication:** All published experimental data should be readily available to requesting labs.
@@ -118,6 +135,13 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 
 ### File Organization
+
+Lab material must be connectable to their context in the real world (lab notebook, instrument settings, etc.). Proper lab data management will ensure this is possible.
+
+- The directory containing experimental output should have the following format:
+YYYY-MM-DD_notebook-page_descriptive-name
+- The raw experimental data should be exported into an appropriate non-proprietary, long-term file format.
+- Each directory should have a clearly labeled summary file (image, text file/document, or graph). The summary file should be printed out and placed in the lab notebook.
 
 
 
@@ -203,48 +227,6 @@ All members of the Project involved in roles related to data management will be 
 
 
 ### Roles and Responsibilities
-
-
-
-### Data Management
-
-
-
-
-
-
-
-
-
-### Section 2
-
-
-
-
-### Section 3
-### Workflows
-
-
-
-
-
-
-#### BACKUP:
-Back up info
-
-#### FILE ORGANIZATION:
-Lab material must be connectable to their context in the real world (lab notebook, instrument settings, etc.). Proper lab data management will ensure this is possible.
-
-- The directory containing experimental output should have the following format:
-YYYY-MM-DD_notebook-page_descriptive-name
-- The raw experimental data should be exported into an appropriate non-proprietary, long-term file format.
-- Each directory should have a clearly labeled summary file (image, text file/document, or graph). The summary file should be printed out and placed in the lab notebook.
-
-
-### Section 4
-### Roles and Responsibilities
-
-
 Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.
 
 
@@ -327,3 +309,6 @@ Responsibility of: **_[complete with one of the roles defined above]_**
 
 
 Responsibility of: **_[complete with one of the roles defined above]_**
+
+
+### Data Management
