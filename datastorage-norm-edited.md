@@ -2,10 +2,6 @@
 
 ## Data Management Implementation Plan
 
-
-**_[Instructions in italics and bold. Remove them from the final document.
-The material in this document may be integrated into a data management plan or used as a stand-alone agreement. There may be some overlap between the Internal Data Sharing Plan and the Data Management Plan. Remove or add text in this document as necessary so that this document is  ]_**
-
 Rationale: This data sharing plan contains the expectations that will govern internal data sharing during the duration of the project. By internal data sharing we understand the sharing of datasets generated or compiled during a project among the members of the project while the project is ongoing.
 
 [Data Collection](#data-collection)
@@ -40,9 +36,9 @@ Using strategies to document datasets is the best way of ensuring that it will h
 
 In spite of the wide variety of data and metadata standards available, it is possible that you won’t find the perfect data standard for your research. Sometimes it is because your research is too specific, and there is nothing that will quite work. Some other times it is because the learning curve to establish a new standard in the lab is too steep to take on. Other tools, often easier  to implement, are lab specific templates and readme files.
 
-Lab specific templates require some prep work, but they are a very flexible tool. They add structure to research notes, with helps researchers record thorough documentation. The structure also makes it easier to search and find information in the notes. Templates can be adapted easily to very discipline specific formats, and they can be designed using the tools that the research group is used to working, which makes its implementation easier.  For more about templates as a documentation tool, see [Kristin Briney’s blog post on Templates]( http://dataabinitio.com/?p=531).
+**Lab specific templates** require some prep work, but they are a very flexible tool. They add structure to research notes, with helps researchers record thorough documentation. The structure also makes it easier to search and find information in the notes. Templates can be adapted easily to very discipline specific formats, and they can be designed using the tools that the research group is used to working, which makes its implementation easier.  For more about templates as a documentation tool, see [Kristin Briney’s blog post on Templates]( http://dataabinitio.com/?p=531).
 
-Readme files are a flexible way of adding documentation to data files. Readme files are plain text files, that can be edited with any text editor, and can be placed in any directory where they are needed. Readme files work very well, for example, to document the folder structure for a particular project. They can be used to record any relevant information about a dataset, though. For more information see [Kristin Briney’s blog post on README.txt]( http://dataabinitio.com/?p=378).
+**Readme files** are a flexible way of adding documentation to data files. Readme files are plain text files, that can be edited with any text editor, and can be placed in any directory where they are needed. Readme files work very well, for example, to document the folder structure for a particular project. They can be used to record any relevant information about a dataset, though. For more information see [Kristin Briney’s blog post on README.txt]( http://dataabinitio.com/?p=378).
 
 Here are some ideas of the kind of information that should be recorded for each dataset:
 *	General:
@@ -73,6 +69,18 @@ Here are some ideas of the kind of information that should be recorded for each 
 
 
 ### Quality Control
+##### Rationale and resources
+It may be useful to design different levels of quality control. For example:
+
+**Level zero (L0):** Data as it is downloaded directly from an instrument or model. This data is often in binary format, impossible to understand or look at by a human unless it is processed by a program. These programs tend to be proprietary and they may or may not perform operations on the data. This data level may not exist. For example: binary files coming from a temperature sensor permanently installed in a stream.
+**Level one (L1):** Raw data in a format that is understandable by a human. There have been no corrections on these data. For example, a csv file obtained after running the programs supplied by the company that manufactured the instrument.
+**Level two (L2):** Verified data that have undergone quality control, including but not limited to:
+*	Detecting sensor malfunctioning
+*	Assessment of outliers
+*	Calibration
+*	Corrections for sensor drift or offset, data artifacts, etc.
+Level two data are the best data that a researcher could use. Level two data should not include data that have undergone quality control procedures that are subjective to the researcher. When quality control is not necessary, L1 and L2 data may be the same.
+**Level three (L3):** L2 data that have been analyzed to answer specific research questions. Typically, this is the data that will be used to create figures in a publication. For example, if a principal component analysis was used to analyze three years of temperature data and published in a figure as part of a peer-reviewed article.  
 
 
 
@@ -81,6 +89,10 @@ Here are some ideas of the kind of information that should be recorded for each 
 
 
 ### Formats
+##### Rationale and resources
+
+Formats that will be better at long term preservation are formats that are platform independent (can be accessed from Linux, Mac and Windows), in an open format (no proprietary formats), and character based (not in binary format). There can be exceptions to all of these for the right reasons. For example, some data standards that are widely used in some disciplines, like netCDFs, save data in binary format.  
+See [eCommons: Cornell's Digital Repository. Recommended file formats](http://guides.library.cornell.edu/ecommons/formats) for a table with existing formats for different types of content, and their probability for full term preservation.
 
 
 
