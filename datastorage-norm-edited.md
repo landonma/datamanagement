@@ -14,12 +14,15 @@ Rationale: This data sharing plan contains the expectations that will govern int
 
 ### Data Management Plan and Documentation
 
-#### Rationale and resources
-#### Boiler plate text
+##### Rationale and resources
+##### Boiler plate text
 ##### Examples
 
 
 ### Data Management Units
+
+##### Rationale and resources
+These groups should be referred to throughout the document when different management needs arise.
 
 
 ### Data Collection
@@ -28,6 +31,45 @@ Rationale: This data sharing plan contains the expectations that will govern int
 
 ### Data Documentation
 
+##### Rationale and resources
+Data documentation is also referred to as metadata. Ideally, all research data generated through the development of a research project should be documented from the beginning of the project. The earlier the documentation process begins, the less likely that details about methodology will be forgotten. Planning about data documentation in the early stages of a project also ensures that data documentation will be thorough.
+
+When designing the documentation strategy think that a person not familiar with the project should be able to understand the important aspects of the project, and all the experiments, without having to talk to any person.
+
+Using strategies to document datasets is the best way of ensuring that it will happen. The preferred strategy would be using a **data standard and/or metadata standard**. These ensure that the data and metadata will be recorded a certain way, and therefore will be thoroughly documented, the relevant information will be easily findable, and the data can be shared easily with others. Find existing data standards and metadata standards in http://rd-alliance.github.io/metadata-directory/
+
+In spite of the wide variety of data and metadata standards available, it is possible that you won’t find the perfect data standard for your research. Sometimes it is because your research is too specific, and there is nothing that will quite work. Some other times it is because the learning curve to establish a new standard in the lab is too steep to take on. Other tools, often easier  to implement, are lab specific templates and readme files.
+
+Lab specific templates require some prep work, but they are a very flexible tool. They add structure to research notes, with helps researchers record thorough documentation. The structure also makes it easier to search and find information in the notes. Templates can be adapted easily to very discipline specific formats, and they can be designed using the tools that the research group is used to working, which makes its implementation easier.  For more about templates as a documentation tool, see [Kristin Briney’s blog post on Templates]( http://dataabinitio.com/?p=531).
+
+Readme files are a flexible way of adding documentation to data files. Readme files are plain text files, that can be edited with any text editor, and can be placed in any directory where they are needed. Readme files work very well, for example, to document the folder structure for a particular project. They can be used to record any relevant information about a dataset, though. For more information see [Kristin Briney’s blog post on README.txt]( http://dataabinitio.com/?p=378).
+
+Here are some ideas of the kind of information that should be recorded for each dataset:
+*	General: 
+o	Authors, collaborators, contacts, and people responsible for the dataset
+o	Context of the dataset: research project, abstract, hypotheses…
+o	Dates of creation, collection, dates when the dataset was updated…
+o	Software and other tools needed to access the data
+o	Methods used for the collection of the data, and quality control.
+o	Level of quality control that each data point has gone through.
+o	Standards that are being used
+o	File names of all the files in the dataset, and description of what they contain. File naming conventions used in the dataset.
+o	Acronyms and abbreviations used in the dataset.
+o	References useful to understand or interpret the dataset.
+*	For tabular data:
+o	Units
+o	Description of all column headers
+o	Value used for null value.
+*	For images:
+o	Consider editing the image metadata with a program like [Exiftool by Phil Harvey]( https://www.sno.phy.queensu.ca/~phil/exiftool/).
+o	Keep information about image provenance: for images that have been modified in some way, keep information about where is the original image, which changes have been performed, and why.   
+*	For sensitive and/or confidential data:
+o	IRB documentation
+o	How will the data be protected?
+*	For code:
+o	Consider the good practices in [Wilson et al. (2014) Best practices for scientific computing](https://doi.org/10.1371/journal.pbio.1001745), which includes the following.
+o	Embed the documentation for a piece of software in that software.
+o	Document interfaces and reasons, design and purpose, not implementations or mechanics.
 
 
 ### Quality Control
