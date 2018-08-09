@@ -1,5 +1,5 @@
 # Oregon-State-Data-Management-Plan
-Table of Contents
+Table of Contents  
 [Data Management Implementation Plan](#data-management-plan-and-other-documentation)  
 [Data Management Units](#data-management-units)  
 [Data Collection](#data-collection)  
