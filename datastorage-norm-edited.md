@@ -31,20 +31,20 @@ The data management plan for the project can be found **_[complete]_**
 ##### 3) Data Description
 **_[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]_**
 
-### Data Management Plan and Documentation
+## Data Management Plan and Documentation
 
 ##### Rationale and resources
 ##### Boiler plate text
 ##### Examples
 
 
-### Data Management Units
+## Data Management Units
 
 ##### Rationale and resources
 These groups should be referred to throughout the document when different management needs arise.
 
 
-### Data Collection
+## Data Collection
 
 ##### LAB NOTEBOOKS
 Rationale: Scientific results are built on documented, measurements and reproducible protocols.  The primary goal of your lab notebook is to document what you did, in detail sufficient to understand and reproduce your results.  It should be a narrative that describes what you did, why you did it, your actual results, and how you interpret them.
@@ -73,7 +73,7 @@ Rationale: Electronic data must be managed well to keep all files up to date, ac
 - **Archival readability:** Data needs to be readable by labs that do not possess any proprietary software used by the lab.
 - **Publication:** All published experimental data should be readily available to requesting labs.
 
-### Data Documentation
+## Data Documentation
 
 ##### Rationale and resources
 Data documentation is also referred to as metadata. Ideally, all research data generated through the development of a research project should be documented from the beginning of the project. The earlier the documentation process begins, the less likely that details about methodology will be forgotten. Planning about data documentation in the early stages of a project also ensures that data documentation will be thorough.
@@ -116,7 +116,7 @@ Here are some ideas of the kind of information that should be recorded for each 
     * Document interfaces and reasons, design and purpose, not implementations or mechanics.
 
 
-### Quality Control
+## Quality Control
 ##### Rationale and resources
 It may be useful to design different levels of quality control. For example:
 
@@ -134,7 +134,7 @@ Level two data are the best data that a researcher could use. Level two data sho
 
 
 
-### File Organization
+## File Organization
 
 Lab material must be connectable to their context in the real world (lab notebook, instrument settings, etc.). Proper lab data management will ensure this is possible.
 
@@ -145,7 +145,7 @@ YYYY-MM-DD_notebook-page_descriptive-name
 
 
 
-### Formats
+## Formats
 ##### Rationale and resources
 
 Formats that will be better at long term preservation are formats that are platform independent (can be accessed from Linux, Mac and Windows), in an open format (no proprietary formats), and character based (not in binary format). There can be exceptions to all of these for the right reasons. For example, some data standards that are widely used in some disciplines, like netCDFs, save data in binary format.  
@@ -153,15 +153,15 @@ See [eCommons: Cornell's Digital Repository. Recommended file formats](http://gu
 
 
 
-### Storage  
+## Storage  
 
 
 
-### Backup
+## Backup
 
 
 
-### Workflow Internal Data Sharing
+## Workflow Internal Data Sharing
 Rationale: setting expectations about how and when datasets will be shared internally will minimize conflict during the project.
 
 
@@ -186,19 +186,19 @@ Rationale: setting expectations about how and when datasets will be shared inter
 
 
 
-### Data Use
+## Data Use
 
 
 
-### Protection for Sensitive and Confidential Data
+## Protection for Sensitive and Confidential Data
 
 
 
-### Management of Physical Samples
+## Management of Physical Samples
 
 
 
-### Data Publication
+## Data Publication
 
 ##### Acknowledgment of Data Use
 
@@ -222,11 +222,11 @@ All members of the Project involved in roles related to data management will be 
 
 - When possible, publications will be made in journals that use the CRediT authorship taxonomy (http://docs.casrai.org/CRediT) or similar. The roles of each of the members of the Project involved in data management will be documented using the appropriate roles.
 
-### Data Archival
+## Data Archival
 
 
 
-### Roles and Responsibilities
+## Roles and Responsibilities
 Rationale: Data management takes time and effort. In order to not oversee any important data management action, it should be clear to all the members of the team who is responsible for each of them.
 
 
