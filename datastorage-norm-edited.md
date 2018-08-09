@@ -11,10 +11,6 @@ Rationale: This data sharing plan contains the expectations that will govern int
 [Data Collection](#data-collection)
 
 
-[Data Collection link](###heading)
-
-[I'm an inline-style link](https://www.google.com)
-
 
 ### Data Management Plan and Documentation
 
