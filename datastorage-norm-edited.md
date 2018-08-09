@@ -79,6 +79,7 @@ It may be useful to design different levels of quality control. For example:
 *	Assessment of outliers
 *	Calibration
 *	Corrections for sensor drift or offset, data artifacts, etc.
+
 Level two data are the best data that a researcher could use. Level two data should not include data that have undergone quality control procedures that are subjective to the researcher. When quality control is not necessary, L1 and L2 data may be the same.
 **Level three (L3):** L2 data that have been analyzed to answer specific research questions. Typically, this is the data that will be used to create figures in a publication. For example, if a principal component analysis was used to analyze three years of temperature data and published in a figure as part of a peer-reviewed article.  
 
