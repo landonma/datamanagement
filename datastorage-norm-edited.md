@@ -46,17 +46,16 @@ Readme files are a flexible way of adding documentation to data files. Readme fi
 
 Here are some ideas of the kind of information that should be recorded for each dataset:
 *	General:
-
   * Authors, collaborators, contacts, and people responsible for the dataset
-	     + Context of the dataset: research project, abstract, hypotheses…
-	     * Dates of creation, collection, dates when the dataset was updated…
-	     * Software and other tools needed to access the data
-	     * Methods used for the collection of the data, and quality control.
-	     * Level of quality control that each data point has gone through.
-	     * Standards that are being used
-	     * File names of all the files in the dataset, and description of what they contain. File naming conventions used in the dataset.
-	     * Acronyms and abbreviations used in the dataset.
-	     * References useful to understand or interpret the dataset.
+Context of the dataset: research project, abstract, hypotheses…
+Dates of creation, collection, dates when the dataset was updated…
+Software and other tools needed to access the data
+Methods used for the collection of the data, and quality control.
+Level of quality control that each data point has gone through.
+Standards that are being used
+File names of all the files in the dataset, and description of what they contain. File naming conventions used in the dataset.
+Acronyms and abbreviations used in the dataset.
+References useful to understand or interpret the dataset.
 *	For tabular data:
 o	Units
 o	Description of all column headers
