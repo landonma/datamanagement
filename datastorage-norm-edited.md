@@ -309,6 +309,3 @@ Responsibility of: **_[complete with one of the roles defined above]_**
 
 
 Responsibility of: **_[complete with one of the roles defined above]_**
-
-
-### Data Management
