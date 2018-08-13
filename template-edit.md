@@ -1,6 +1,20 @@
 # Oregon-State-Data-Management-Plan Template
-Table of Contents:  
-[Project Information](#project-information)   
+
+*[Instructions in this document will appear in this format. The expectation is that all instructions will be deleted from this document after it is completed. All other sections and text are provided as suggestions to help you implement your data management plan. Delete and modify them as you see fit so that this document ends up being useful to you. Extra guidance, suggestions and examples can be found [here](https://here) If you have feedback about this template, please contact ResearchDataServices@oregonstate.edu  ]*
+
+### Project Information
+
+##### *Instructions*  
+*[Include basic information about the project.]*
+
+###### *Text*
+
+Project: *[Project Name]*  
+Website: *[Website of the project]*  
+PI: *[Principal investigator of the project]*
+
+
+## Table of Contents:     
 [Data Management Plan and other Documentation](#data-management-plan-and-other-documentation)  
 [Data Management Units](#data-management-units)  
 [Data Collection](#data-collection)  
@@ -17,20 +31,6 @@ Table of Contents:
 [Data Publication](#data-publication)  
 [Data Archival](#data-archival)  
 [Roles and Responsibilities](#roles-and-responsibilities)  
-
-*[Instructions in this document will appear in this format. The expectation is that all instructions will be deleted from this document after it is completed. All other sections and text are provided as suggestions to help you implement your data management plan. Delete and modify them as you see fit so that this document ends up being useful to you. Extra guidance, suggestions and examples can be found [here](https://here) If you have feedback about this template, please contact ResearchDataServices@oregonstate.edu  ]*
-
-### Project Information
-
-##### *Instructions*  
-*[Include basic information about the project.]*
-
-###### *Text*
-
-Project: *[Project Name]*  
-Website: *[Website of the project]*  
-PI: *[Principal investigator of the project]*
-
 
 ## Data Management Plan and other Documentation
 ###### *Instructions*  
