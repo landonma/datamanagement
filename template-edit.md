@@ -167,3 +167,42 @@ Details about experiments and work in a lab are quickly forgotten unless they ar
 
 
 ## Roles and Responsibilities
+
+##### *Role definitions:*
+*[adapt the definition of each of the roles for the Project. These roles are defined so that this document will not need to be adapted every time that there are changes within the Project team. These definitions should reflect as accurately as possible the roles in the project. For example, if the project will have Postdocs but not technicians, rename the Researcher role to Postdoc. For example, if there are going to be two kinds of students (field students and lab students) that will have different data management roles, these should be outlined here. For example, if the project is going to have a data manager, outline the role here.]*
+
+
+**Principal Investigator (PI):** leads the Project. It is usually designated by the funder. If there is no funder or the funder does not designate the principal investigator, it will be person providing leadership to the Project.
+
+**Faculty Investigator:** they actively perform research on all or a part of the research Project. They may provide active mentorship to students.
+
+**Team member:** they contribute to the scientific development or execution of a study in a substantive, measurable way (research/postdoctoral fellows, technicians, associates and consultants).
+
+**Student:** member of the Project pursuing a degree. Undergraduate, master, PhD or others
+%%
+##### *Responsibilities* **_[adapt the definition of each of these responsibilities to the Project. Add more, or remove if necessary. Decide who (which role) is going to be responsible for each of these]_**
+
+
+
+
+**DMP Implementation:** responsible for ensuring Data Management Plan and the Internal Data Sharing Plan move from planning into implementation; ensure that any practices, responsibilities, policies outlined in the plan are followed; ensure that new members of the Project will receive data management training; responsible for maintaining the Data Management Plan and the Internal Data Sharing Plan up to date, and making sure that all members of the Project understand and are prepared to apply the changes.
+
+
+ Responsibility of: **_[complete with one of the roles defined above]_**
+
+
+**Protection of sensitive and protected data:** responsible for complying with applicable laws and regulations, institutional policies, and ethical principles governing the conduct of human subjects research, sensitive and protected data.
+
+
+Responsibility of: **_[complete with one of the roles defined above]_**
+
+
+**Instrumentation maintenance:** responsible for conducting tasks related to instruments such as installation, calibration, testing, and performing maintenance of instrumentation equipment.
+
+
+Responsibility of: **_[complete with one of the roles defined above]_**
+
+
+**Data collection/ data generation:** responsible for data collection and creation (research, locate, identify, and measure), data entry, information processing (transcribing and manipulation), data generation (prototyping, models, and database).
+
+Responsibility of: **_[complete with one of the roles defined above]_**
