@@ -41,7 +41,8 @@ PI: *[Principal investigator of the project]*
 - 	Contracts between *[blank]* and *[blank]* that involve data management can be found in *[blank]*  
 - 	Department and college policies with data management consequences *[blank]*  
 - 	Oregon State University Open Access policy can be found [here]( https://cdss.library.oregonstate.edu/sites/default/files/osu_openacesspolicy_final_single_page.pdf). The policy directs faculty to submit an electronic copy of the author's accepted (post-peer review, pre-typeset) manuscript of their articles to OSU Libraries for dissemination via the ScholarsArchive@OSU institutional repository.   
-- 	Oregon State University’s University Data Managmeent, Classification, and Incident Response policy can be found [here]( https://is.oregonstate.edu/ois/data-management-and-classification-overview). It classifies data into Unrestricted, Sensitive and Confidential and defines standards of care for each kind to protect confidentiality, integrity, and availability of data.    
+- 	Oregon State University’s University Data Managmeent, Classification, and Incident Response policy can be found [here]( https://is.oregonstate.edu/ois/data-management-and-classification-overview). It classifies data into Unrestricted, Sensitive and Confidential and defines standards of care for each kind to protect confidentiality, integrity, and availability of data.
+- 	All the researchers and collaborators in this research project strive to work with data in an ethical manner, and will use the [Community Principles on Ethical Data Practices](https://datapractices.org/community-principles-on-ethical-data-sharing/) as a guiding code of ethics.
 
 
 ## Data Management Units
