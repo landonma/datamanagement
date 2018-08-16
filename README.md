@@ -11,6 +11,10 @@ Steps
 * clone our repository
 
 * how to edit markdown
+Markdown was created to be easy to read and edit. You can find more tips [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) but examples below will show you the basic tools for writing in Markdown.
+
+
+
 * how to write your own doc
     * how to naviagate the different pages
 * upload edits if necessary
