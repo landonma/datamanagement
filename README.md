@@ -14,7 +14,7 @@ Steps
 Markdown was created to be easy to read and edit. You can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Some additional tips for creating markdown documents:
 * There must be a space after the ##'s when making headers
 * There is NO space when bolding and using italics; ie. **bold** not ** bold **
-
+* If you want to force a line break put two spaces at the end of the line; end."  "
 
 
 * how to write your own doc
