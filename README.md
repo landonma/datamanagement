@@ -10,7 +10,7 @@ Steps
     * make sure its set up for pages
 * clone our repository
 
-* how to edit markdown
+## Markdown editing
 Markdown was created to be easy to read and edit. You can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Some additional tips for creating markdown documents:
 * There must be a space after the ##'s when making headers
 * There is NO space when bolding and using italics; ie. **bold** not ** bold **
