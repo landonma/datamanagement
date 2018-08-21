@@ -13,6 +13,8 @@ Next you will need to create a new repository by going [here](https://github.com
 * in order to set it up for pages give the use name the repository *username*.github.io where username if the name of the using creating the repository
 
 
+Next clone our [our repository](https://github.com/landonma/datamanagement). You
+
 ## Markdown editing
 Markdown was created to be easy to read and edit. You can find a guide for using markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Some additional tips for creating markdown documents:
 * There must be a space after the ##'s when making headers
