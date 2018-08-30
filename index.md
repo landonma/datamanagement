@@ -2,7 +2,7 @@
 [Data Management Implementation Guidance Document](https://landonma.github.io/datamanagement/guidance-edit)  
 [Github Repository](https://github.com/landonma/datamanagement)
 # How to Use This Repository
-This repository contains the tools necessary to create a data management implementation plan and a webpage for your project. We have created template and guidance documents to allow you to easily create a plan specific for your project. We also walk you through using Github to set up a Github Pages webpage. After completing the following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for your research project.
+This repository contains the tools necessary to create a data management implementation plan and a webpage for your project. We have created template and guidance documents to allow you to easily create a plan specific for your project. We also walk you through using Github to set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for your research project.
 
 
 ## Set Up A Github Repository
