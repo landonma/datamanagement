@@ -6,12 +6,12 @@ This repository contains the tools necessary to create a data management impleme
 
 
 ## Set Up A Github Repository
-Github is a website used to share data and allow multiple people to work on projects. Github Pages is a newer featre which allows you to create webpages out of your repositories. You will need a Github account in order to complete this guide and can create one [here](hhttps://github.com/join)  
+Github is a website used to share data and allow multiple people to work on the same project. Github Pages is a newer feature which allows you to create webpages out of your repositories. You will need a Github account in order to complete this guide and can create one [here](hhttps://github.com/join)  
 * Note: the url for the webpage will use either the username or organization name which sets it up.
 
 
 Next you will need to create a new repository set up with Github pages by following the steps provided [here](https://pages.github.com/).  
-* Note: Github pages does take some time to respond to new pages and edits so wait 3-5 minutes after making pushing changes before assuming something went wrong
+* Note: Github pages does take some time to respond to new pages and edits so wait 3-5 minutes after making changes before assuming something went wrong
 * Once a user or organization is set up to use Github pages, all their repositories will be navigable in a browser  
 
 Next clone or download [our repository](https://github.com/landonma/datamanagement). Then place upload the template file into your own repository. ([Here](https://help.github.com/articles/adding-a-file-to-a-repository/) is a quick article if you are unfamiliar with Github)
