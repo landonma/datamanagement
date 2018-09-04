@@ -18,7 +18,7 @@ Github is a website used to share data and allow multiple people to work on the 
 
 There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers can apply for a free private account by following [these](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account") steps.  
 ###### ** IMPORTANT NOTE **
-GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL REPOSITRIES** and **ALL FILES** are set up with pages for a uses means you must be certain their is **ABSOLUTELY ZERO** private information linked with your account before you set it up with Github Pages. If there is some question about whether this holds true for your or not, it maybe best to simply create a new Github account to
+GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that **ALL REPOSITRIES** and **ALL FILES** are set up with pages for a uses means you must be certain their is **ABSOLUTELY ZERO** private information linked with your account before you set it up with Github Pages. If there is some question about whether this holds true for your or not, it maybe best to simply create a new Github account.
 
 Next you will need to create a new repository set up with Github pages by following the steps provided [here](https://pages.github.com/ "Github Pages").  
 * Note: Github pages does take some time to respond to new pages and edits so wait 3-5 minutes after making changes before assuming something went wrong
@@ -37,11 +37,11 @@ Markdown was created to be easy to read and edit and we use this format for all 
 It is easiest to edit markdown files either by editing the documents through Github in a web browser or by using source code editing software such as Notepad++ or Atom (these docs were created using Atom). You could theoretically use Microsoft Word or Google Docs but it is strongly recommended that you use Github's editor instead. To edit them using Github simply navigate to your repository, click on the file you want to edit and click the edit (pencil) button on the top right of the page.
 
 ## Using Our Template and Guide Documents
-The template markdown file is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
+The template markdown file (found [here](datastorage-norm-edited.md)) is meant to be edited and filled out directly. As you look through the template file you should fill in any _____ spaces and change any of the boiler-plate text with details specific for your project.  
 
 
 
-The guidance document is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
+The guidance document (found [here](guidance-edit.md)) is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
 
 ## Customizing Github Pages
 When you use Github Pages your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. For the repository we created that page is the one you are reading right now. For your repository you will want something that suites your needs.
