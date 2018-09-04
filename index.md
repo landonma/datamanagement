@@ -2,7 +2,7 @@
 [Data Management Implementation Guidance Document](guidance-edit.md)  
 [Github Repository](https://github.com/landonma/datamanagement)  
 
-# The Data Management Plan Implementation Project
+# The Data Management Plan Implementation Template Project
 
 ## Summary
 In this repository you will find a template that will help you put your Data Management Plan into action. This repository is designed to make your life easy, so that you can start working on the implementation of your Data Management Plan right away, following a few steps: 
