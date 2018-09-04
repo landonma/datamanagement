@@ -2,11 +2,68 @@
 [Data Management Implementation Guidance Document](guidance-edit.md)  
 [Github Repository](https://github.com/landonma/datamanagement)  
 
+# The Data Management Plan Implementation Project
+
+## Summary
+In this repository you will find a template that will help you put your Data Management Plan into action. This repository is designed to make your life easy, so that you can start working on the implementation of your Data Management Plan right away, following a few steps: 
+* Import this repository and add your collaborators.
+* Make the template page be your index.md page
+* Start editing! Fill the blanks, delete and add as you need so that this document is useful for your research project. 
+* Consult the guidelines from the original repository to help you make choices about what to write in your DMP implementation. 
+
+## Context of the project
+Many funding agencies require the Principal Investigator to submit a Data Management Plan with grant applications. The Data Management Plan is usually a two page document in which the researcher makes a plan for how the research data generated or used during the project will be managed. The requirements for Data Management Plans vary depending on the agency requiring them, but they often include these pieces of information:
+* **Data description**: a description of the types of data to be produced in the course of the project. The amount of data that will be generated. How the data will be collected. What format the data will be saved on, and whether standards will be used for the data. 
+* **Data documentation**: description of how the data will be documented (given metadata). Metadata standards. 
+* **Policies for accessing and sharing**: when and how the data will be made publicly available. If there is any sensitive data, how will the confidentiality of research subjects be protected? Formats that will be used to make the data available. 
+* **Policies for re-use and redistribution**, and how these policies will be communicated (e.g. through data licenses). 
+* **Data archiving and preservation**: how will the data will be preserved for the long term. 
+* **Roles and responsibilities**: who in the project will have the responsibility of implementing the data management plan, and who will have the responsibility of doing all the other data management tasks: data collection, data organization, data quality control, data documentation, preparation for data archival, etc.
+
+Data management plans are relatively new and there are still several challenges around their use. Two of the challenges that this project aims to solve are:
+* The fact that a data management plan is written at the beginning of the grant does not mean that the data management plan will be implemented and followed during the research project. It is not always clear how granting agencies check for compliance at the end of the project.
+* The data management plan is writen at the proposal stage of the research process, so it has general provisions and it generally does not go into great detail about day to day data management practices.
+* Data management strategies can change during the research project. There is no established practice to make Data Management Plans be live documents, 
+
+This template attempts to be a list of things that you will probably want to think about, regarding data management, before and during the research project. The goal of having this template in github is to make it easily available to all the researchers in your group, and to make it a living document, where you can document changes as they happen.   
+
+## Suggested use of this template
+
+You can take this template and use it as you want. It is published under a CC0 license. However, this is how we think it is most useful:
+
+* Once your grant has been awarded: pass the information from the Data Management Plan submitted with the grant proposal to this template. During this process, make data management practices specific so that they can be useful in the day-to-day in the lab. You can involve other members of the team who weren't involved in the grant writing process. 
+* At the beginning of the project: use it to involve other researchers in data management decisions. 
+* During your project: use it as a reference document to train new researchers that get involved in the research project..
+* During the project: use it to document changes in any of the data management practices followed by the group. 
+* At the end of your research project: use it to document your compliance with funders requirements related to data management. 
+* At the end of the project: use it to inform the data management plan of your new grant proposal.
+* Before, during and after your project: make your research more transparent by making your research data management practices publicly available. 
+
+## FAQ
+* Why do I need an implementation of a Data Management Plan?
+* Is this a Data Management Plan template?
+* How can I get help to write my own Data Management Plan?
+* Does my Data Management Plan Implementation need to be in GitHub?
+* Your template does not fit very well with my discipline. 
+* What does DMP stand for?
+* What if I don't have a Data Management Plan?
+* Who is this project for?
+* I am a grad student. Should I use this template?
+* I have feedback for you.
+* How do I acknowledge that I am using your template?
+* I need help!
+* In what other formats can I find this template?
+* I don't want my data management plan to be openly available. How can I use this template?
+
+## About us
+This template has been developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library.
+
+This work is licensed under a CC0 license. If you would like to give attribution, you can include the previous line in the readme of your repository, or somewhere in your data management plan, but you are not expected to do so. 
+
+We always welcome feedback (good and bad) about how this template has helped you. You can open an issue in this repository, or send us an e-mail to [researchdataservices@oregonstate.edu](researchdataservices@oregonstate.edu).
+
 # How to Use This Repository
 This repository contains the tools necessary to create a data management implementation plan and a webpage for your project. We have created template and guidance documents to allow you to easily create a plan specific for your project. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the data management plan and don't want to make a Github Webpage then skip to [this](#using-our-template-and-guide-documents) step.
-
-
-## What is a Data Management Implementation Plan
 
 ## What is Github Pages
 * Once a repository is set up with Github pages, [any](https://landonma.github.io/datamanagement/osulogo.jpg) file in the repository can be navigated to in a web browser. Markdown or html files will be viewed as webpages
