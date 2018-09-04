@@ -40,7 +40,7 @@ You can take this template and use it as you want. It is published under a CC0 l
 * Before, during and after your project: make your research more transparent by making your research data management practices publicly available. 
 
 ## FAQ
-* **Who is this project for?**
+### Who is this project for?
 
 This Data Management Plan implementation template is aimed to document data management practices of research projects, large and small, of any disciplines. 
 
@@ -48,12 +48,12 @@ Whomever is responsible for data management decisions in the project, will proba
 
 We have tried to make this template as general as possible. It is possible that this template will fit some fields more than others. If you have feedback to give us open an issue or send us an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu), we are very interested in hearing whether this is useful for you!
 
-* **Why do I need an implementation of a Data Management Plan?**
+### Why do I need an implementation of a Data Management Plan?
 Data Management Plans are often submitted with grant proposals. Thus, these plans are written generally, as many details about day to day data management are still not known. Many research groups are also not used to document changes in their data management plan during the research process, so the Data Management Plan becomes less useful. 
 
 The goal of this template is both to help research groups make concrete and specific decisions about data management practices, and to make it a living document that can be updated and consulted often. 
 
-* **Is this a Data Management Plan template?**
+### Is this a Data Management Plan template?
 
 No, this is a Data Management Plan Implementation template. A Data Management Plan is a document that many funding agencies require be submitted with grant proposals. This template assumes that you already have a Data Management Plan, and that you want to put it into action. This template includes a lot more details than what you want to write in your Data Management Plan.
 
@@ -63,7 +63,7 @@ If you need help to write a Data Management Plan you can:
 - Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan. 
 - If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 
-* **How can I get help to write my own Data Management Plan?**
+### How can I get help to write my own Data Management Plan?
 This template is not for writing Data Managment Plans for grant applications. It is to write a living implementation of such Data Management Plans. 
 
 If you need help to write a Data Management Plan you can:
@@ -72,7 +72,7 @@ If you need help to write a Data Management Plan you can:
 - Find guidance at the library of your institution. Many institutions have wonderful guidance in their websites, and librarians that can help you to write a Data Management Plan. 
 - If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 
-* **Does my Data Management Plan Implementation need to be in GitHub?**
+### Does my Data Management Plan Implementation need to be in GitHub?
 
 No, it does not need to be in GitHub. There are a few reasons why we have decided to host this Data Management Plan Implementation Template in GitHub:
 - Because you can easily clone our template, edit it, and have a website with your Data Management Plan Implementation. Having a public Data Management Plan Implementation in the form of a website will help your research group because it will make your data management practices transparent, and because everybody in your research group will be able to consult them easily from wherever they are. 
