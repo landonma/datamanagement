@@ -81,32 +81,32 @@ No, it does not need to be in GitHub. There are a few reasons why we have decide
 
 However, there are many reasons why GitHub may not be the right choice for a research project. This template is also accessible as a Word document, a pdf, and a LaTeX document. 
 
-* **Your template does not fit very well with my discipline.**
+### Your template does not fit very well with my discipline.
 
 Please, let us know! Write us an e-mail at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu) or open an issue. We may be able to improve the template in the future. 
 
 This template can be changed as much as you need, so hopefully this will still be somewhat useful to help implement the Data Management Plan of your research project. 
 
-* **What does DMP stand for?**
+### What does DMP stand for?
 
 Data Management Plan
 
-* **What if I don't have a Data Management Plan?**
+### What if I don't have a Data Management Plan?
 The assumption of this Data Management Plan Implementation Template is that you have a Data Management Plan that you want to implement. This is the case of many research projects because many funding agencies require data management plans to be submitted with grant proposals. But if this is not your case, you can still use this template! We actually really encourage you to do so. Go ahead and start editing! 
 
-* **I am a grad student. Should I use this template?**
+### I am a grad student. Should I use this template?
 
 Yes. Data Management Plans are absolutely useful for masters research projects or for PhD research projects. We encourage you to write a Data Management Plan, whether you use this template or not! It is most useful to write a Data Management Plan at the beginning of your project, but it will still be useful at other more advanced stages of the project. 
 
-* **I have feedback for you.**
+### I have feedback for you.
 
 Excellent! Please open an issue with the feedback or send an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu). We appreciate your time doing that!
 
-* **How do I acknowledge that I am using your template?**
+### How do I acknowledge that I am using your template?
 
 This template is published under a CC0 license. You are not expected to give attribution, but we will apreciate it if you do. You can include a line to your Data Management Plan or to the readme of your repository saying "This DMP has been generated using the template developed by Clara Llebot Lorente and Mark Landon, working for Research Data Services at the Oregon State University Library. https://github.com/landonma/datamanagement"
 
-* **I need help!**
+### I need help!
 
 If you need help to write a Data Management Plan you can:
 - Find guidance in [DMPTool.org](https://dmptool.org/)
@@ -119,16 +119,16 @@ If you need help to write the implementation of your Data Management Plan you ca
 - If you are a researcher of Oregon State University, you can contact Research Data Services at [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 - If you can't find help in your institution and you are not part of Oregon State University you can send us an e-mail. We may be able to help with general guidance, although we cannot offer in depth advice to researchers not belonging to Oregon State University. 
 
-* **In what other formats can I find this template?**
+### In what other formats can I find this template?
 
 We also offer this template in Word, pdf and LaTeX. 
 
-* **I don't want my data management plan to be openly available. How can I use this template?**
+### I don't want my data management plan to be openly available. How can I use this template?
 
 Unfortunately, there is no way of hosting a website using GitHub pages and having your pages be private. They will be openly available. You can use other formats of the template that we distribute: Word, pdf, LaTeX.
 
 
-* **Will I find this template useful if I am not from OSU?**
+### Will I find this template useful if I am not from OSU?
 
 We have writen this template as generally as possible so that it is useful to the maximum number of people. However, the guidance document has been written with Oregon State University in mind, so that it is especially useful for researchers of that institution. If you have suggestions about how to improve the template or the guidance so that it is useful, please open an issue or send an e-mail to [ResearchDataServices@oregonstate.edu](ResearchDataServices@oregonstate.edu)
 
