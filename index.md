@@ -1,6 +1,7 @@
 [Data Management Implementation Plan Template](https://landonma.github.io/datamanagement/datastorage-norm-edited)  
 [Data Management Implementation Guidance Document](https://landonma.github.io/datamanagement/guidance-edit)  
-[Github Repository](https://github.com/landonma/datamanagement)
+[Github Repository](https://github.com/landonma/datamanagement)  
+[Relaitive link test](guidance-edit.md)
 # How to Use This Repository
 This repository contains the tools necessary to create a data management implementation plan and a webpage for your project. We have created template and guidance documents to allow you to easily create a plan specific for your project. We also walk you through using Github to set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for your research project.
 
@@ -8,6 +9,7 @@ This repository contains the tools necessary to create a data management impleme
 ## Set Up A Github Repository
 Github is a website used to share data and allow multiple people to work on the same project. Github Pages is a newer feature which allows you to create webpages out of your repositories. You will need a Github account in order to complete this guide and can create one [here](hhttps://github.com/join)  
 * Note: the url for the webpage will use either the username or organization name which sets it up.
+* Repositories can be set up to be public (available to view and download by anyone on the web) and private (only available to collaborators of the project) **but Github Pages are always public**. Normally Github charges for private repositories but researchers can apply for a free private account by following [these](https://help.github.com/articles/applying-for-an-academic-research-discount/) steps.
 
 
 Next you will need to create a new repository set up with Github pages by following the steps provided [here](https://pages.github.com/).  
@@ -32,3 +34,12 @@ The template markdown file is meant to be edited and filled out directly. As you
 
 
 The guidance document is meant to help you think about the important parts of each section and is **not** meant to be edited and published. This document will help illustrate what is important to include and consider in each section.
+
+## Customizing Github Pages
+When you use Github Pages your repository is your webserver. Therefor, the file titled "index" will be the homepage of your website. For the repository we created that page is the one you are reading right now. For your repository you will want something that suites your needs.  
+You may want a list of links for this page with some basic text. To do this, use the markdown file as a template and complete the following steps
+* Edit the links to match the file names in your repository. If you don't change any of the file names the link
+
+
+Github has also created a number of themes for the Pages sites which can be viewed [here](http://jekyllthemes.org/).  Instructions on how to apply the themes are [here](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/).
+* I suggest editing the "_ config" file as describe as it is easily reversed or changed later.
