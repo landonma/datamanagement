@@ -142,20 +142,33 @@ We always welcome feedback (good and bad) about how this template has helped you
 # How to Use This Repository
 This repository contains the tools necessary to create a data management implementation plan and a webpage for your project. We have created template and guidance documents to allow you to easily create a plan specific for your project. as a lot of this walkthrough is designed to help set up a Github Pages webpage. The following steps contain links and instructions to help you through this process. After completing these steps you will have a data management plan and a working webpage for specific to your research project. If you are only interested in creating the data management plan and don't want to make a Github Webpage then skip to [this](#using-our-template-and-guide-documents) step.
 
-## What is Github Pages
-* Once a repository is set up with Github pages, [any](https://landonma.github.io/datamanagement/osulogo.jpg) file in the repository can be navigated to in a web browser. Markdown or html files will be viewed as webpages
-* **ALL** repositories linked with the user who set up Pages will become navigable with Github Pages
 
-## Set Up A Github Repository
-Github is a website used to share data and allow multiple people to work on the same project. You will need a Github account in order to complete this guide and can create one [here](hhttps://github.com/join "Create a Github account").  
+## Github
+Github is a website with variety of uses including: sharing data and creating collaborative projects. You will need a Github account if you want to use Github to publish your documents and can create one [here](hhttps://github.com/join "Create a Github account").  
 * Note: the url for the webpage will use either the username or organization name which sets it up. Try to make sure the URL will be appropriate to share with others and relevant to what is on the webpage.
 
 There are two types of repositories on GitHub; public ones and private ones. Public repositories can be seen by and downloaded by anyone on the web but only edited by collaborators. Private repositories can only be seen by its contributors.  Normally Github charges for private repositories but researchers can apply for a free private account by following [these](https://help.github.com/articles/applying-for-an-academic-research-discount/ "Apply for an Free Private Academic Research Account") steps.  
-###### ** IMPORTANT NOTE **
-GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that  **ALL FILES IN A REPOSITORY** that are set up with pages means you must be certain their is **ABSOLUTELY ZERO** private information linked with your account before you set it up with Github Pages. If there is some question about whether this holds true for your or not, it maybe best to simply create a new Github account !!.
 
-Next you will need to create a new repository set up with Github pages by following the steps provided [here](https://pages.github.com/ "Github Pages").  
-* Note: Github pages does take some time to respond to new pages and edits so wait 3-5 minutes after making changes before assuming something went wrong
+## Github Pages
+Github Pages allows you to create webpages where Github provides hosting and a web domain name. This allows you to publish documents through GitHub that anyone can access through a web browser.  
+
+###### ------------** IMPORTANT NOTE ** ------------
+GitHub Pages are **ALWAYS PUBLIC REGARDLESS OF THE PRIVACY OF THE REPOSITORY**. This combined with the fact that  **ALL FILES IN THE REPOSITORY ARE VIEWABLE**  means you must be certain their is **ABSOLUTELY ZERO** private information in your repository before you set it up with Github Pages. You can decide which repositories in your account to publish using Github Pages with one exception, your **USERNAME.github.io** repository (which must be created for Github Pages to work with any of your repositories) will always be navigable and thus **public**. If there is some question about whether this holds true for your or not, it maybe best to simply create a new Github repository free of the private information to use with Pages.  
+
+### Setting Up Your Account to Use Github Pages
+Setting up Github Pages is fairly simple and straight forward.
+- First, in your browser, go to github.com and make sure you are logged into the account which will publish your documents.  
+- Then create a new repository with the name USERNAME.github.io (where the USERNAME is replaced with your username). I entered "landonma.github.io" since my username is landonma.  
+- 
+- You can now navigate to any files uploaded to this repository  
+**Note:** Github pages usually takes around 5-7 minutes to upload new pages and edits
+
+To do this (after reading the IMPORTANT NOTE above)   
+
+
+
+Next you will need to set up your Github account to  [here](https://pages.github.com/ "Github Pages").  
+* Note: Github pages does take some time to respond to new pages and edits, so wait 5-7 minutes after making changes before assuming something went wrong.
 * Once a user or organization is set up to use Github pages, all their repositories will be navigable in a browser  
 
 Next clone or download [our repository](https://github.com/landonma/datamanagement "Data Management Implementation Plan Repository"). Then place upload the template file into your own repository. ([Here](https://help.github.com/articles/adding-a-file-to-a-repository/ "Adding a File to a Repository") is a quick article if you are unfamiliar with Github)
