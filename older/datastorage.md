@@ -93,7 +93,7 @@ The data management plan for the project can be found **_[complete]_**
 ##### 3) Data Description
 **_[if there are datasets that will be managed differently with respect to internal data sharing, describe them here so that we can refer to them throughout this document. Each section of this document should refer to each of the dataset groups outlined below. Feel free to refer to the DMP for a description of the dataset groups if that makes sense.]_**
 
-
+------------------------------------
 ### Section 2
 ### Acknowledgment of Data Use
 
@@ -183,7 +183,7 @@ YYYY-MM-DD_notebook-page_descriptive-name
 - The raw experimental data should be exported into an appropriate non-proprietary, long-term file format.
 - Each directory should have a clearly labeled summary file (image, text file/document, or graph). The summary file should be printed out and placed in the lab notebook.
 
-
+-------------------------------
 ### Section 4
 ### Roles and Responsibilities
 
