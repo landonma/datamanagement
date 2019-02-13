@@ -4,8 +4,7 @@
 
 # The Data Management Plan Implementation Template Project
 
-## Summary
-In this repository you will find a template that will help you put your Data Management Plan into action. This repository is designed to make your life easy, so that you can start working on the implementation of your Data Management Plan right away, following a few steps:
+## Summaryhis repository you will find a template that will help you put your Data Management Plan into action. This repository is designed to make your life easy, so that you can start working on the implementation of your Data Management Plan right away, following a few steps:
 * Import this repository and add your collaborators.
 * Make the template page be your index.md page
 * Start editing! Fill the blanks, delete and add as you need so that this document is useful for your research project.
